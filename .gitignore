@@ -1,0 +1,4 @@
+
+# Ignore API keys and sensitive files
+.env
+google_credentials.json
